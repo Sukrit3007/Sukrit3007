@@ -15,4 +15,4 @@ Cloud       → AWS (EC2, CloudFront) · Vercel · GitHub Actions
 
 #### Links
 
-[Portfolio](https://sukrit.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sukrit37/) · [X](https://x.com/Sukrit_rao)
+[Portfolio](https://sukrits.webflow.io) · [LinkedIn](https://www.linkedin.com/in/sukrit37/) · [X](https://x.com/Sukrit_rao)
